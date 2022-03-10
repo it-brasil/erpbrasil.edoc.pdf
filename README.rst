@@ -14,25 +14,25 @@ Overview
       - | |version| |wheel| |supported-versions| |supported-implementations|
         | |commits-since|
 
-.. |travis| image:: https://api.travis-ci.org/erpbrasil/erpbrasil.edoc.pdf.svg?branch=master
+.. |travis| image:: https://api.travis-ci.org/it-brasil/erpbrasil.edoc.pdf.svg?branch=libus
     :alt: Travis-CI Build Status
-    :target: https://travis-ci.org/erpbrasil/erpbrasil.edoc.pdf
+    :target: https://travis-ci.org/it-brasil/erpbrasil.edoc.pdf
 
-.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/erpbrasil/erpbrasil.edoc.pdf?branch=master&svg=true
+.. |appveyor| image:: https://ci.appveyor.com/api/projects/status/github/it-brasil/erpbrasil.edoc.pdf?branch=libus&svg=true
     :alt: AppVeyor Build Status
-    :target: https://ci.appveyor.com/project/erpbrasil/erpbrasil.edoc.pdf
+    :target: https://ci.appveyor.com/project/it-brasil/erpbrasil.edoc.pdf
 
-.. |requires| image:: https://requires.io/github/erpbrasil/erpbrasil.edoc.pdf/requirements.svg?branch=master
+.. |requires| image:: https://requires.io/github/it-brasil/erpbrasil.edoc.pdf/requirements.svg?branch=libus
     :alt: Requirements Status
-    :target: https://requires.io/github/erpbrasil/erpbrasil.edoc.pdf/requirements/?branch=master
+    :target: https://requires.io/github/it-brasil/erpbrasil.edoc.pdf/requirements/?branch=libus
 
-.. |coveralls| image:: https://coveralls.io/repos/erpbrasil/erpbrasil.edoc.pdf/badge.svg?branch=master&service=github
+.. |coveralls| image:: https://coveralls.io/repos/it-brasil/erpbrasil.edoc.pdf/badge.svg?branch=libus&service=github
     :alt: Coverage Status
-    :target: https://coveralls.io/r/erpbrasil/erpbrasil.edoc.pdf
+    :target: https://coveralls.io/r/it-brasil/erpbrasil.edoc.pdf
 
-.. |codecov| image:: https://codecov.io/github/erpbrasil/erpbrasil.edoc.pdf/coverage.svg?branch=master
+.. |codecov| image:: https://codecov.io/github/it-brasil/erpbrasil.edoc.pdf/coverage.svg?branch=libus
     :alt: Coverage Status
-    :target: https://codecov.io/github/erpbrasil/erpbrasil.edoc.pdf
+    :target: https://codecov.io/github/it-brasil/erpbrasil.edoc.pdf
 
 .. |version| image:: https://img.shields.io/pypi/v/erpbrasil.edoc.pdf.svg
     :alt: PyPI Package latest release
@@ -50,9 +50,9 @@ Overview
     :alt: Supported implementations
     :target: https://pypi.org/project/erpbrasil.edoc.pdf
 
-.. |commits-since| image:: https://img.shields.io/github/commits-since/erpbrasil/erpbrasil.edoc.pdf/v1.0.2.svg
+.. |commits-since| image:: https://img.shields.io/github/commits-since/it-brasil/erpbrasil.edoc.pdf/v1.0.3.svg
     :alt: Commits since latest release
-    :target: https://github.com/erpbrasil/erpbrasil.edoc.pdf/compare/v1.0.2...master
+    :target: https://github.com/it-brasil/erpbrasil.edoc.pdf/compare/v1.0.3...master
 
 
 
@@ -67,11 +67,9 @@ Installation
 
 ::
 
-    pip install erpbrasil.edoc.pdf
-
 You can also install the in-development version with::
 
-    pip install https://github.com/erpbrasil/erpbrasil.edoc.pdf/archive/master.zip
+    pip install https://github.com/it-brasil/erpbrasil.edoc.pdf/archive/master.zip
 
 
 Documentation

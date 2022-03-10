@@ -20,13 +20,13 @@ project = 'erpbrasil.edoc.pdf'
 year = '2020'
 author = 'KMEE'
 copyright = '{0}, {1}'.format(year, author)
-version = release = '1.0.2'
+version = release = '1.0.3'
 
 pygments_style = 'trac'
 templates_path = ['.']
 extlinks = {
-    'issue': ('https://github.com/erpbrasil/erpbrasil.edoc.pdf/issues/%s', '#'),
-    'pr': ('https://github.com/erpbrasil/erpbrasil.edoc.pdf/pull/%s', 'PR #'),
+    'issue': ('https://github.com/it-brasil/erpbrasil.edoc.pdf/issues/%s', '#'),
+    'pr': ('https://github.com/it-brasil/erpbrasil.edoc.pdf/pull/%s', 'PR #'),
 }
 # on_rtd is whether we are on readthedocs.org
 on_rtd = os.environ.get('READTHEDOCS', None) == 'True'
