@@ -1,4 +1,4 @@
-__version__ = '1.0.3'
+__version__ = '1.0.4'
 
 from lxml import etree
 from lxml import objectify
